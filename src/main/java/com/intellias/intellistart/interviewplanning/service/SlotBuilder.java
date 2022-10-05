@@ -4,6 +4,9 @@ import java.time.DayOfWeek;
 import java.time.LocalTime;
 import lombok.Data;
 
+/**
+ * InterviewerTimeSlot builder.
+ */
 @Data
 public class SlotBuilder {
 
